@@ -1,12 +1,5 @@
 # MySmartShelf
 
-## Group members and UGR
-
-Charmigoa Peter Bawar      UGR/2823/17
-
-Amen Girmawi Bush          UGR/9593/17
-
-
 
 
 MySmartShelf: Personal Book Tracker Using Sets and Dictionaries
